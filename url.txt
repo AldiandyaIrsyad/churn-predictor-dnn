@@ -1,0 +1,8 @@
+Dataset:	https://www.kaggle.com/blastchar/telco-customer-churn
+Deployment:	https://aldiandya-p2m1.herokuapp.com/
+
+E.g:
+
+Not changing anything will makes customer churn
+
+Changing contract type to two year from default will make customer will not churn
